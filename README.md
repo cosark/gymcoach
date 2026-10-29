@@ -91,6 +91,10 @@ answered in [docs/faq.md](docs/faq.md).
 If GymCoach is useful to you, **a ⭐ on the repo is the best way to help other
 lifters find it.**
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/GymCoach/)
+
 ## This repo largely maintains itself
 
 GymCoach is also an experiment in **autonomous software development**. Claude Code
